@@ -53,7 +53,7 @@ let projectsData = [
         title: "Quick Notes App",
         description: "Create, edit, and organize your daily thoughts and text snippets.",
         technology: ["HTML", "CSS", "React"],
-        link: "https://github.com..."
+        link: "https://notes-app-sigma-gray.vercel.app/"
     },
     {
     id: 8,
@@ -61,7 +61,7 @@ let projectsData = [
     title: "Todo Task Manager",
     description: "Track your everyday goals and tick off tasks as you complete them.",
     technology: [ "HTML", "CSS", "React" ],
-    link: "https://notes-app-sigma-gray.vercel.app/"
+    link: "https://github.com..."
   },
   {
   id: 9,
