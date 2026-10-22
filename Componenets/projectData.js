@@ -61,7 +61,7 @@ let projectsData = [
     title: "Todo Task Manager",
     description: "Track your everyday goals and tick off tasks as you complete them.",
     technology: [ "HTML", "CSS", "React" ],
-    link: "https://github.com..."
+    link: "https://notes-app-sigma-gray.vercel.app/"
   },
   {
   id: 9,
