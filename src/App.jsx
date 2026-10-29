@@ -10,6 +10,7 @@ import Footer from '../Componenets/Footer';
 import MoreProjects from '../Componenets/MoreProjects';
 import Navbar2 from '../Componenets/Navbar2';
 
+
 function App() {
 
   const [isOpen, setIsOpen] = useState(false)
