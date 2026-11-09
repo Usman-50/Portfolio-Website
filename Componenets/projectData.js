@@ -4,8 +4,8 @@ let projectsData = [
         img: "Images/rock.png",
         title: "Rock Paper Scissors",
         description: "Classic interactive game built with HTML and CSS.",
-        technology: ["HTML", "CSS" , "Javascript"],
-        link: "https://tic-tac-toe-two-85.vercel.app/"
+        technology: ["HTML", "CSS", "Javascript"],
+        link: "https://rock-paper-scissor-game-one-app.vercel.app/"
     },
     {
         id: 2,
@@ -21,7 +21,7 @@ let projectsData = [
         title: "Tic Tac Toe",
         description: "A classic two-player grid puzzle game of X and O.",
         technology: ["HTML", "CSS", "Javascript"],
-        link: "https://github.com..."
+        link: "https://tic-tac-toe-two-85.vercel.app/"
     },
     {
         id: 4,
@@ -56,21 +56,21 @@ let projectsData = [
         link: "https://notes-app-sigma-gray.vercel.app/"
     },
     {
-    id: 8,
-    img: "Images/todo.png",
-    title: "Todo Task Manager",
-    description: "Track your everyday goals and tick off tasks as you complete them.",
-    technology: [ "HTML", "CSS", "React" ],
-    link: "https://github.com..."
-  },
-  {
-  id: 9,
-  img: "Images/twitter.png", 
-  title: "X Clone",
-  description: "A responsive social media interface featuring posts, feeds, and modern UI.",
-  technology: [ "HTML", "Tailwind CSS"],
-  link: "https://github.com..."
-}
+        id: 8,
+        img: "Images/todo.png",
+        title: "Todo Task Manager",
+        description: "Track your everyday goals and tick off tasks as you complete them.",
+        technology: ["HTML", "CSS", "React"],
+        link: "https://github.com..."
+    },
+    {
+        id: 9,
+        img: "Images/twitter.png",
+        title: "X Clone",
+        description: "A responsive social media interface featuring posts, feeds, and modern UI.",
+        technology: ["HTML", "Tailwind CSS"],
+        link: "https://github.com..."
+    }
 ]
 
 export default projectsData;

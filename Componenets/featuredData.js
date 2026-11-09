@@ -21,7 +21,7 @@ let projectsDataFeatured = [
         title: "Tic Tac Toe",
         description: "A classic two-player grid puzzle game of X and O.",
         technology: ["HTML", "CSS", "Javascript"],
-        link: "https://github.com..."
+        link: "https://tic-tac-toe-two-85.vercel.app/"
     }
 ]
 
